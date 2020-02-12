@@ -1,4 +1,4 @@
-# GoblinCombatGame
+# GoblinCombatGame :japanese_goblin:
 Combining <b>Python Pygame</b> and <b>Arduino</b> as one and creating a console game, with real life buttons to shoot on the <b>Arduino platform</b> and kill evil Goblins.
 
 All logic is done in Python:
