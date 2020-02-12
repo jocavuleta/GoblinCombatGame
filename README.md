@@ -1,7 +1,7 @@
 # GoblinCombatGame :japanese_goblin:
 Combining <b>Python Pygame</b> and <b>Arduino</b> as one and creating a console game, with real life buttons to shoot on the <b>Arduino platform</b> and kill evil Goblins.
 
-:snake:	All logic is done in Python	
+:snake:	All logic is done in Python	<br>
 :joystick: Arduino device used to shoot at the enemies
  - Working with arrays to represent dynamic movement of the character
  - Calculating the hit boxes of each character
